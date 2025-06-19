@@ -1,0 +1,14 @@
+[package]
+name = "wcli"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.41"
+colored = "3.0.0"
+dotenv = "0.15.0"
+indicatif = "0.17.11"
+rpassword = "7.4.0"
+
+[build-dependencies]
+dotenv = "0.15.0"
